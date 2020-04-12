@@ -1,3 +1,7 @@
+/*
+Aplique o padrão Iterator à classe Lista e também faça as alterações necessárias no código para
+torná-la uma classe genérica. A ordem na qual os elementos serão iterados não importa (qualquer ordem de iteração é valida).
+*/
 import java.util.*;
 
 class Lista<T> {
@@ -20,7 +24,7 @@ class Lista<T> {
 	}
 }
 
-public class TesteLista {
+public class IteratorLista {
 
 	public static void main(String [] args){
 		Lista<Integer> lista = new Lista<Integer>();

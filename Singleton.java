@@ -1,3 +1,8 @@
+/*
+Escreva o código de uma classe qualquer que ilustre a implementação do
+padrão de projeto Singleton
+*/
+
 class SingletonEx {
 
 	private static SingletonEx connection = null;

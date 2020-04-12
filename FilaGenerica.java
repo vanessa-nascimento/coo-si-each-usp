@@ -1,3 +1,6 @@
+/*
+Considerando um classe genérica, usando uma Colletion Java para armazenar os elementos que implementa uma estrutura de dados do tipo fila e oferece os seguintes métodos: adiciona (fim da fila), remove (inicio da fila) e tamanho. 
+*/
 import java.util.*;
 
 class ListaArray<T> {

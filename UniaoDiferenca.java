@@ -1,6 +1,9 @@
-/* Atividade de COO - Turma 94 */
-/* Vanessa Alves do Nascimento */
-
+/*
+Dados dois Sets, a e b, de elementos do tipo T (onde T é uma variável de tipo genérico),
+escreva métodos genéricos para determinar:
+- A união de a com b.
+- A diferença (a - b) (valores que existem apenas em a).
+*/
 import java.util.*;
 
 class ConjuntoSet<T> {
